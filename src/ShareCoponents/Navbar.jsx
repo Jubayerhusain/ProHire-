@@ -44,8 +44,8 @@ function Navbar() {
   );
 
   return (
-    <div>
-      <div className="navbar px-10  text-gray-700 shadow-lg">
+    <div className="">
+      <div className="navbar px-10   text-gray-700 shadow-lg">
         <div className="navbar-start">
           <div className="dropdown dropdown-hover">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

@@ -2,7 +2,7 @@ import React from "react";
 
 function JobCategories() {
   return (
-    <div className="py-16 px-8 bg-gray-50">
+    <div className="py-16 px-8 ">
       <h2 className="text-3xl font-bold text-center mb-6">
         Browse by Category
       </h2>
